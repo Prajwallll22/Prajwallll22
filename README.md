@@ -123,13 +123,7 @@ DEVOPS
 
 ---
 
-## 🐍 Contribution Graph
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Prajwallll22/Prajwallll22/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
@@ -151,7 +145,3 @@ DEVOPS
 
 **☁️ Building towards Cloud Security 🔐**
 
-</div>
-## 🐍 Contribution Snake
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Prajwalll22/Prajwalll22/gh-pages/github-contribution-grid-snake.svg)
