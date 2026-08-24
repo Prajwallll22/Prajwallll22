@@ -1,47 +1,40 @@
-<div align="center">
-
 # 👋 Hi, I'm Prajwal
 
 ### `CSE • Cybersecurity • Cloud Computing`
 
 **Building towards Cloud Security ☁️🔐**
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Prajwallll22-181717?style=for-the-badge\&logo=github)](https://github.com/Prajwallll22)
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Prajwallll22-181717?style=for-the-badge&logo=github)](https://github.com/Prajwallll22)
 
 ---
 
 ## 🖥️ `whoami`
 
-```bash
+```
 ┌──[prajwal@github]─[~]
 └─$ whoami
 
-CSE Cybersecurity Student
-Cloud Computing Enthusiast
-Linux User
-Cybersecurity Learner
-Future Cloud Security Engineer
+CSE Cybersecurity Student, Dayananda Sagar University
+Cloud Computing & AWS — primary focus
+Linux & Networking
+Working towards: CLF-C02 → SAA-C03 → Terraform Associate → CKA
 ```
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **Computer Science & Engineering — Cybersecurity**
+🎓 Computer Science & Engineering — Cybersecurity, DSU Bangalore
 
-☁️ Exploring **Cloud Computing & Cloud Security**
+☁️ Focused on **Cloud Computing & Cloud Security**, AWS-first
 
 🔐 Building foundations in **Cybersecurity & Networking**
 
-🐧 Working with **Linux**
+🐧 Daily driver: **Linux**
 
-💻 Learning **C, C++, Python & Bash**
+💻 **C, C++, Python & Bash**
 
-🚀 Turning what I learn into practical projects
+🚀 Currently building: Cloud Resume Challenge, AWS infra projects, DSA in Python
 
 ---
 
@@ -49,99 +42,45 @@ Future Cloud Security Engineer
 
 ### 💻 Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Prajwallll22)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Prajwallll22)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Prajwallll22)
 
 ### ☁️ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/Prajwallll22)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/Prajwallll22)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Prajwallll22)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwallll22)
 
 ### 🔐 Security & Systems
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge)
-
----
-
-## ☁️ Current Focus
-
-```text
-CYBERSECURITY
-├── Networking
-├── Linux
-├── Security Fundamentals
-└── Ethical Hacking
-
-CLOUD
-├── AWS
-├── IAM
-├── Cloud Architecture
-└── Cloud Security
-
-DEVOPS
-├── Git
-├── Terraform
-├── CI/CD
-└── Infrastructure as Code
-```
-
----
-
-## 🚀 Projects
-
-> Building and documenting projects as I progress.
-
-| Project               | Focus                | Status      |
-| --------------------- | -------------------- | ----------- |
-| 🔐 Cybersecurity Lab  | Security & Linux     | 🟡 Building |
-| ☁️ AWS Infrastructure | Cloud & Terraform    | 🟡 Building |
-| 🌐 Networking Lab     | Networking & Systems | 🟡 Building |
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Prajwallll22)
+[![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/Prajwallll22)
+[![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge)](https://github.com/Prajwallll22)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-
-</div>
-
----
+![](https://github-readme-stats.vercel.app/api?username=Prajwallll22&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Prajwallll22&theme=tokyonight&hide_border=true"/>
-
-</div>
+![](https://streak-stats.demolab.com/?user=Prajwallll22&theme=tokyonight&hide_border=true)
 
 ---
 
+## 🎯 2026 Roadmap
 
-
----
-
-## 🎯 2026 Goals
-
-* [ ] Build serious cybersecurity projects
-* [ ] Build AWS projects
-* [ ] Learn Terraform
-* [ ] Strengthen Linux & networking
-* [ ] Build a Cloud Security portfolio
-* [ ] Contribute to open source
-* [ ] Earn relevant cloud/security certifications
+- [ ] Ship Cloud Resume Challenge (S3 + Lambda + API Gateway + Terraform)
+- [ ] Secure VPC project on AWS
+- [ ] CI/CD pipeline project
+- [ ] GitOps deployment project
+- [ ] Advanced K8s project
+- [ ] Earn CLF-C02, SAA-C03, Terraform Associate, CKA
+- [ ] Contribute to open source
 
 ---
-
-<div align="center">
 
 ### `echo "Keep learning. Keep building. Keep securing."`
-
-**☁️ Building towards Cloud Security 🔐**
-
