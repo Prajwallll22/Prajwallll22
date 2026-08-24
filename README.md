@@ -157,8 +157,5 @@ DEVOPS
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prajwalll22/Prajwalll22/gh-pages/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prajwalll22/Prajwalll22/gh-pages/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Prajwalll22/Prajwalll22/gh-pages/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Prajwalll22/Prajwalll22/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </picture>
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Prajwalll22/Prajwalll22/gh-pages/github-contribution-grid-snake.svg)
