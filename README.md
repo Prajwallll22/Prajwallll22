@@ -98,10 +98,6 @@ Working towards: CLF-C02 → SAA-C03 → Terraform Associate → CKA
 
 <div align="center">
 
-<!-- Light mode -->
-<img alt="Snake animation" src="https://raw.githubusercontent.com/Prajwallll22/Prajwallll22/output/github-contribution-grid-snake.svg" />
-
-<!-- Dark mode aware (optional picture element) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prajwallll22/Prajwallll22/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prajwallll22/Prajwallll22/output/github-contribution-grid-snake.svg" />
