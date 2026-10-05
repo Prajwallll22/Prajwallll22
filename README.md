@@ -9,25 +9,25 @@ prajwallll22@omnibook7 ~ $ fastfetch
 </div>
 
 ```text
-                   -`                     prajwallll22@omnibook7
-                  .o+`                    ----------------------
-                 `ooo/                    OS: Arch Linux x86_64
-                `+oooo:                   Host: omnibook7
-               `+oooooo:                  Kernel: 6.12.1-arch1-1
-               -+oooooo+:                 Uptime: building since 2025
-             `/:-:++oooo+:                Packages: C, C++, Python, Bash
-            `/++++/+++++++:               Shell: bash 5.2.37
-           `/++++++++++++++:              DE: Cloud Security & AWS
-          `/+++ooooooooooooo/`            WM: DevSecOps
-         ./ooosssso++osssssso+`           Terminal: github-readme
-        .oossssso-````/ossssss+`          CPU: CSE Cybersecurity @ DSU
-       -osssssso.      :ssssssso.         GPU: Learning · Building · Securing
-      :osssssss/        osssso+++.        Memory: Cloud Resume · AWS · DSA
-     /ossssssss/        +ssssooo/-        Locale: Bangalore, India
-   `/ossssso+/:-        -:/+osssso+-      Status: ● ONLINE
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `/
+              ▄
+             ▟█▙                    prajwallll22@omnibook7
+            ▟███▙                   ──────────────────────
+           ▟█████▙                  OS: Arch Linux x86_64
+          ▟███████▙                 Host: omnibook7
+         ▂▔▀▜██████▙                Kernel: 6.12.1-arch1-1
+        ▟██▅▂▝▜█████▙               Uptime: building since 2025
+       ▟█████████████▙              Packages: C · C++ · Python · Bash
+      ▟███████████████▙             Shell: bash 5.2.37
+     ▟█████████████████▙            DE: Cloud Security & AWS
+    ▟███████████████████▙           WM: DevSecOps
+   ▟█████████▛▀▀▜████████▙          Terminal: github-readme
+  ▟████████▛      ▜███████▙         CPU: CSE Cybersecurity @ DSU
+ ▟█████████        ████████▙        GPU: Learning · Building · Securing
+▟█████████|        |████████▙       Memory: Cloud Resume · AWS · DSA
+▜█████████|        |████████▛       Locale: Bangalore, India
+ ▜███████▛          ▜██████▛        Status: ● ONLINE
+  ▜████▛              ▜███▛
+    ▀▛                  ▀
 ```
 
 ```text
