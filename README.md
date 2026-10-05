@@ -59,7 +59,7 @@ prajwallll22@github ~ $ cat /var/log/build.log | tail -n 12
 [ok] primary stack:          C · C++ · Python · Bash · AWS
 [ok] secondary stack:        Terraform · Docker · Kubernetes
 [ok] security focus:         Cloud Security · Networking · Linux
-[ok] learning path:          CLF-C02 → SAA-C03 → TF Assoc → CKA
+[ok] learning path:          CLF-C02 → SAA-C03 · TF Assoc → CKA
 [ok] current projects:       Cloud Resume Challenge · AWS infra · DSA
 [run] Building towards Cloud Security ☁️🔐
 [run] Keep learning. Keep building. Keep securing.
@@ -197,18 +197,6 @@ PROJECTS.LIST  ./projects.sh --all
 More projects loading... Cloud Resume Challenge · AWS VPC ·
 CI/CD · GitOps · K8s — check back as they ship.
 ```
-
----
-
-```text
-prajwallll22@github ~ $ cat ~/.ascii-avatar
-```
-
-<div align="center">
-
-<img src="https://github-readme-insight-terminal-asci.vercel.app/svg/ascii?user=Prajwallll22&theme=mac&color=1&scale=0.35" width="100%" alt="ASCII Avatar"/>
-
-</div>
 
 ---
 
