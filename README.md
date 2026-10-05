@@ -1,14 +1,35 @@
 <div align="center">
 
-<img src="https://github.com/Prajwallll22.png" width="140" height="140" style="border-radius:50%; border: 3px solid #58a6ff;" alt="Prajwal Mane"/>
+<img src="https://github.com/Prajwallll22.png" width="160" height="160" style="border-radius:50%; border: 3px solid #58a6ff;" alt="Prajwal Mane"/>
 
 ```text
 prajwallll22@omnibook7 ~ $ neofetch --live
 ```
 
-<img src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=Prajwallll22&theme=mac&color=1" width="100%" alt="neofetch"/>
-
 </div>
+
+```text
+                    prajwallll22@omnibook7
+                    ----------------------
+         .--.       Name      : Prajwal Mane
+        |o_o |      Role      : CSE Cybersecurity Student
+        |:_/ |      Focus     : Cloud Security & AWS
+       //   \ \     OS        : Linux
+      (|     | )    Host      : omnibook7
+     /'\_   _/`\    Shell     : bash / zsh
+     \___)=(___/    Uni       : DSU Bangalore
+                    Stack     : C · C++ · Python · Bash
+                    Cloud     : AWS · Terraform · Docker · K8s
+                    Path      : CLF-C02 → SAA-C03 → TF → CKA
+                    Location  : Bangalore, India
+                    Status    : ● ONLINE
+```
+
+```text
+● ONLINE · CSE Cybersecurity student | Cloud Security & AWS |
+  Linux & Networking | Building projects, learning DevSecOps,
+  and exploring secure cloud infrastructure.
+```
 
 ---
 
@@ -38,12 +59,6 @@ prajwallll22@omnibook7 ~ $ whoami && cat /etc/motd
 │  Location      Bangalore, India                               │
 │  Uptime        Building since 2025                            │
 └───────────────────────────────────────────────────────────────┘
-```
-
-```text
-● ONLINE · CSE Cybersecurity student | Cloud Security & AWS |
-  Linux & Networking | Building projects, learning DevSecOps,
-  and exploring secure cloud infrastructure.
 ```
 
 ---
@@ -176,7 +191,7 @@ prajwallll22@omnibook7 ~ $ git log --graph --all --decorate | head -20
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prajwallll22/Prajwallll22/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prajwallll22/Prajwallll22/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Prajwallll22/Prajwallll22/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Prajwallll22/Prajwallll22/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
