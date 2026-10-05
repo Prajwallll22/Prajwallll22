@@ -3,7 +3,7 @@
 <img src="https://github.com/Prajwallll22.png" width="140" height="140" style="border-radius:50%; border: 3px solid #58a6ff;" alt="Prajwal Mane"/>
 
 ```text
-prajwallll22@github ~ $ neofetch --live
+prajwallll22@omnibook7 ~ $ neofetch --live
 ```
 
 <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=Prajwallll22&theme=mac&color=1" width="100%" alt="neofetch"/>
@@ -13,7 +13,7 @@ prajwallll22@github ~ $ neofetch --live
 ---
 
 ```text
-prajwallll22@github ~ $ whoami && cat /etc/motd
+prajwallll22@omnibook7 ~ $ whoami && cat /etc/motd
 ```
 
 ```text
@@ -23,12 +23,14 @@ prajwallll22@github ~ $ whoami && cat /etc/motd
 │  Role          CSE Cybersecurity Student                      │
 │  University    Dayananda Sagar University, Bangalore          │
 │  Focus         Cloud Security · AWS · DevSecOps               │
+│  Host          omnibook7                                      │
 │  Status        ● ONLINE                                       │
 └───────────────────────────────────────────────────────────────┘
 
 ┌─[ TELEMETRY ]─────────────────────────────────────────────────┐
 │  OS            Linux (daily driver)                           │
 │  Shell         bash / zsh                                     │
+│  Host          omnibook7                                      │
 │  Languages     C · C++ · Python · Bash                        │
 │  Cloud         AWS · Terraform · Docker · Kubernetes          │
 │  Security      Networking · Linux Hardening · Cloud Security  │
@@ -47,7 +49,7 @@ prajwallll22@github ~ $ whoami && cat /etc/motd
 ---
 
 ```text
-prajwallll22@github ~ $ cat /var/log/build.log | tail -n 12
+prajwallll22@omnibook7 ~ $ cat /var/log/build.log | tail -n 12
 ```
 
 ```text
@@ -55,6 +57,7 @@ prajwallll22@github ~ $ cat /var/log/build.log | tail -n 12
 [ok] role detected:          CSE Cybersecurity Student
 [ok] environment:            GitHub public cloud
 [ok] workspace:              independent
+[ok] host:                   omnibook7
 [ok] coordinates:            Bangalore
 [ok] primary stack:          C · C++ · Python · Bash · AWS
 [ok] secondary stack:        Terraform · Docker · Kubernetes
@@ -70,7 +73,7 @@ Building foundations. Shipping infrastructure. Securing the cloud.
 ---
 
 ```text
-prajwallll22@github ~ $ ls -la ~/skills/ && which --all toolchain
+prajwallll22@omnibook7 ~ $ ls -la ~/skills/ && which --all toolchain
 ```
 
 ```text
@@ -117,7 +120,7 @@ prajwallll22@github ~ $ ls -la ~/skills/ && which --all toolchain
 ---
 
 ```text
-prajwallll22@github ~ $ cat ~/roadmap/2026.md
+prajwallll22@omnibook7 ~ $ cat ~/roadmap/2026.md
 ```
 
 ```text
@@ -142,7 +145,7 @@ prajwallll22@github ~ $ cat ~/roadmap/2026.md
 ---
 
 ```text
-prajwallll22@github ~ $ git status --short && git log --oneline -5
+prajwallll22@omnibook7 ~ $ git status --short && git log --oneline -5
 ```
 
 ```text
@@ -163,7 +166,7 @@ working tree: clean · shipping consistently
 ---
 
 ```text
-prajwallll22@github ~ $ git log --graph --all --decorate | head -20
+prajwallll22@omnibook7 ~ $ git log --graph --all --decorate | head -20
 ```
 
 ## 🐍 Contribution Snake
@@ -181,7 +184,7 @@ prajwallll22@github ~ $ git log --graph --all --decorate | head -20
 ---
 
 ```text
-prajwallll22@github ~ $ ls ~/projects/ --launchpad
+prajwallll22@omnibook7 ~ $ ls ~/projects/ --launchpad
 ```
 
 ```text
@@ -201,7 +204,7 @@ CI/CD · GitOps · K8s — check back as they ship.
 ---
 
 ```text
-prajwallll22@github ~ $ ssh prajwallll22@github
+prajwallll22@omnibook7 ~ $ ssh prajwallll22@omnibook7
 ```
 
 ```text
@@ -227,6 +230,6 @@ echo "Keep learning. Keep building. Keep securing."
 # exit 0
 ```
 
-⭐ From [Prajwallll22](https://github.com/Prajwallll22) · terminal command center
+⭐ From [Prajwallll22](https://github.com/Prajwallll22) · terminal command center · omnibook7
 
 </div>
