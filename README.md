@@ -6,35 +6,45 @@
 prajwallll22@omnibook7 ~ $ fastfetch
 ```
 
-</div>
+<table>
+<tr>
+<td width="200" align="center">
+
+<img src="https://raw.githubusercontent.com/Prajwallll22/Prajwallll22/main/assets/tux-spin.svg" width="160" alt="Spinning Tux"/>
+
+</td>
+<td>
 
 ```text
-              ▄
-             ▟█▙                    prajwallll22@omnibook7
-            ▟███▙                   ──────────────────────
-           ▟█████▙                  OS: Arch Linux x86_64
-          ▟███████▙                 Host: omnibook7
-         ▂▔▀▜██████▙                Kernel: 6.12.1-arch1-1
-        ▟██▅▂▝▜█████▙               Uptime: building since 2025
-       ▟█████████████▙              Packages: C · C++ · Python · Bash
-      ▟███████████████▙             Shell: bash 5.2.37
-     ▟█████████████████▙            DE: Cloud Security & AWS
-    ▟███████████████████▙           WM: DevSecOps
-   ▟█████████▛▀▀▜████████▙          Terminal: github-readme
-  ▟████████▛      ▜███████▙         CPU: CSE Cybersecurity @ DSU
- ▟█████████        ████████▙        GPU: Learning · Building · Securing
-▟█████████|        |████████▙       Memory: Cloud Resume · AWS · DSA
-▜█████████|        |████████▛       Locale: Bangalore, India
- ▜███████▛          ▜██████▛        Status: ● ONLINE
-  ▜████▛              ▜███▛
-    ▀▛                  ▀
+prajwallll22@omnibook7
+──────────────────────
+OS:       Linux x86_64
+Host:     omnibook7
+Kernel:   6.12.1
+Uptime:   building since 2025
+Packages: C · C++ · Python · Bash
+Shell:    bash 5.2
+DE:       Cloud Security & AWS
+WM:       DevSecOps
+Terminal: github-readme
+CPU:      CSE Cybersecurity @ DSU
+GPU:      Learning · Building · Securing
+Memory:   Cloud Resume · AWS · DSA
+Locale:   Bangalore, India
+Status:   ● ONLINE
 ```
+
+</td>
+</tr>
+</table>
 
 ```text
 ● ONLINE · CSE Cybersecurity student | Cloud Security & AWS |
   Linux & Networking | Building projects, learning DevSecOps,
   and exploring secure cloud infrastructure.
 ```
+
+</div>
 
 ---
 
@@ -54,7 +64,7 @@ prajwallll22@omnibook7 ~ $ whoami && cat /etc/motd
 └───────────────────────────────────────────────────────────────┘
 
 ┌─[ TELEMETRY ]─────────────────────────────────────────────────┐
-│  OS            Arch Linux x86_64                              │
+│  OS            Linux x86_64                                   │
 │  Shell         bash / zsh                                     │
 │  Host          omnibook7                                      │
 │  Languages     C · C++ · Python · Bash                        │
@@ -131,9 +141,9 @@ prajwallll22@omnibook7 ~ $ ls -la ~/skills/ && which --all toolchain
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
