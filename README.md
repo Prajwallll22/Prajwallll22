@@ -29,7 +29,7 @@ WM:       DevSecOps
 Terminal: github-readme
 CPU:      CSE Cybersecurity @ DSU
 GPU:      Learning · Building · Securing
-Memory:   Cloud Resume · AWS · DSA
+Memory:   RAG API · AWS · Cloud Resume · DSA
 Locale:   Bangalore, India
 Status:   ● ONLINE
 ```
@@ -69,6 +69,7 @@ prajwallll22@omnibook7 ~ $ whoami && cat /etc/motd
 │  Host          omnibook7                                      │
 │  Languages     C · C++ · Python · Bash                        │
 │  Cloud         AWS · Terraform · Docker · Kubernetes          │
+│  AI / RAG      FastAPI · ChromaDB · Ollama · Embeddings       │
 │  Security      Networking · Linux Hardening · Cloud Security  │
 │  Cert Path     CLF-C02 → SAA-C03 → Terraform Assoc → CKA      │
 │  Location      Bangalore, India                               │
@@ -79,7 +80,7 @@ prajwallll22@omnibook7 ~ $ whoami && cat /etc/motd
 ---
 
 ```text
-prajwallll22@omnibook7 ~ $ cat /var/log/build.log | tail -n 12
+prajwallll22@omnibook7 ~ $ cat /var/log/build.log | tail -n 14
 ```
 
 ```text
@@ -91,9 +92,10 @@ prajwallll22@omnibook7 ~ $ cat /var/log/build.log | tail -n 12
 [ok] coordinates:            Bangalore
 [ok] primary stack:          C · C++ · Python · Bash · AWS
 [ok] secondary stack:        Terraform · Docker · Kubernetes
+[ok] AI stack:               FastAPI · ChromaDB · Ollama · RAG
 [ok] security focus:         Cloud Security · Networking · Linux
 [ok] learning path:          CLF-C02 → SAA-C03 · TF Assoc → CKA
-[ok] current projects:       Cloud Resume Challenge · AWS infra · DSA
+[ok] current projects:       rag-api · Cloud Resume Challenge · DSA
 [run] Building towards Cloud Security ☁️🔐
 [run] Keep learning. Keep building. Keep securing.
 ```
@@ -118,6 +120,11 @@ prajwallll22@omnibook7 ~ $ ls -la ~/skills/ && which --all toolchain
 │   ├── Terraform
 │   ├── Docker
 │   └── Kubernetes
+├── ai/
+│   ├── FastAPI
+│   ├── ChromaDB
+│   ├── Ollama
+│   └── RAG pipelines
 ├── security/
 │   ├── Linux
 │   ├── Networking
@@ -140,6 +147,10 @@ prajwallll22@omnibook7 ~ $ ls -la ~/skills/ && which --all toolchain
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -156,6 +167,8 @@ prajwallll22@omnibook7 ~ $ cat ~/roadmap/2026.md
 ```text
 # 2026 Roadmap — ~/roadmap/2026.md
 
+[x] RAG API (local)
+      → FastAPI + ChromaDB + Ollama · multi-user metadata filter
 [ ] Ship Cloud Resume Challenge
       → S3 + Lambda + API Gateway + Terraform
 [ ] Secure VPC project on AWS
@@ -219,6 +232,14 @@ prajwallll22@omnibook7 ~ $ ls ~/projects/ --launchpad
 
 ```text
 PROJECTS.LIST  ./projects.sh --all
+
+┌─────────────────────────────────────────────────────────────┐
+│  Prajwallll22/rag-api                                       │
+│  Retrieval-Augmented Generation API                         │
+│  FastAPI · ChromaDB · Ollama · multi-user metadata filter   │
+│  topics: rag · fastapi · chromadb · ollama · embeddings     │
+│  → https://github.com/Prajwallll22/rag-api                  │
+└─────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────┐
 │  Prajwallll22/Prajwallll22                                  │
