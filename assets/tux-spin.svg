@@ -11,8 +11,6 @@
   </defs>
   <g transform="translate(100,115)">
     <g>
-      <animateTransform attributeName="transform" attributeType="XML"
-        type="rotate" from="0" to="360" dur="3.5s" repeatCount="indefinite"/>
       <ellipse cx="-18" cy="82" rx="15" ry="6" fill="#f90"/>
       <ellipse cx="18" cy="82" rx="15" ry="6" fill="#f90"/>
       <ellipse cx="0" cy="22" rx="50" ry="60" fill="url(#body)"/>
